@@ -1,0 +1,8 @@
+name = "Herring"
+uuid = "46b4bbd8-f707-11e8-1f5f-01851a71083d"
+authors = ["thijsvdlaar <thijsvdlaar@hotmail.com>"]
+version = "0.1.0"
+
+[deps]
+ForneyLab = "9fc3f58a-c2cc-5bff-9419-6a294fefdca9"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
